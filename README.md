@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://github.com/brunoscholz/brunoscholz/raw/screenshot.png"/>
+  <img src="https://github.com/brunoscholz/brunoscholz/blob/master/screenshot.png"/>
 </div>
 <br/>
 <br/>
