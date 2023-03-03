@@ -8,7 +8,9 @@
 ## Hi there, I'm Bruno 👋
 
 - Frontend Engineer at Wunderman Thompson Technology
+- Working as Fullstack Drupal developer
 - 🌱 I’m currently learning web3.js and solidity
+- 🌱 and making games at nights and weekends in Unity3D
 
 ## Skills
 - ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
