@@ -1,0 +1,382 @@
+{
+  "AboutData": "Accomplished Fullstack Drupal Developer (<em><a href=\"https://certification.acquia.com/index.php/user/22426\">Triple Certified Drupal Expert</a></em>) at VML with over 15 years of extensive experience in <em>software engineering</em>, specializing in frontend development and infrastructure operation. Recognized for exceptional <em>problem-solving</em> abilities and a lifelong commitment to learning, I bring an entrepreneurial mindset to every project.<br/><br/>My passion lies in crafting intelligent <em>solutions</em> that not only meet but exceed customer expectations. I thrive in challenging environments that demand a diverse skill set and sharp critical thinking.<br/><br/>Continuously dedicated to staying ahead of the curve I invest time in <em>mastering</em> new technologies and tools to ensure optimal performance and innovation. With a proven track record of continuous improvement, recent peer reviews highlight excellent <em>communication</em> skills and collaborative teamwork.",
+  "ExperienceData": [
+    {
+      "company": "WUNDERMAN THOMPSON TECH / VML",
+      "local": "Pelotas",
+      "title": "Backend Engineer",
+      "path": ["Working"],
+      "begin": "January 2022",
+      "end": "Current",
+      "separator": "-",
+      "description": [
+        "Spearheaded full-stack development efforts on high-profile <em>Drupal</em> projects for clients such as <em>FitnessFirst</em> and <em>AB-INBEV</em>.",
+        "Engineered a custom <em>Acquia DAM</em> image cropper module, enhancing customer experience by streamlining image curation workflows.",
+        "Led the development of a sophisticated multi-page <em>webform</em>, serving as the primary subscription source, with custom components, themes, and integrated external API."
+      ],
+      "skills": ["Drupal", "PHP", "Vue"],
+      "image": ""
+    },
+    {
+      "company": "POSSIBLE / WUNDERMAN THOMPSON TECH",
+      "local": "Pelotas",
+      "title": "Frontend Engineer",
+      "path": ["Hired", "Work"],
+      "begin": "January 2021",
+      "end": "Current",
+      "separator": "-",
+      "description": [
+        "Contributed to diverse client projects including <em>Siemens</em> and <em>DWS Bank</em>, delivering robust frontend solutions.",
+        "Developed an interactive game using CreateJS for <em>SporTV</em>, showcasing creativity and innovation in gaming.",
+        "Implemented single sign-on (SSO) integration with AzureAD in Symfony 3, enhancing security and user experience.",
+        "Crafted <em>mobile</em> applications with Cordova, extending client reach to mobile platforms."
+      ],
+      "skills": ["Angular", "React", "Drupal"],
+      "image": ""
+    },
+    {
+      "company": "OCTION",
+      "local": "Curitiba",
+      "title": "Co-Founder & Game Developer",
+      "path": ["Founded", "Work", "Left"],
+      "begin": "February 2014",
+      "end": "August 2016",
+      "separator": "-",
+      "description": [
+        "Conceptualized and developed corporate training products, advergames for business expos, and educational games, demonstrating versatility and creativity in <em>game development</em>.",
+        "Contributed to the design of the company's core teaching methodology, incorporating principles from Piaget and Popper, fostering engaging and effective <em>learning</em> experiences.",
+        "Engaged in a niche social media project involving <em>blockchain</em> technology, exploring innovative solutions despite the challenging landscape of cryptocurrency in 2016."
+      ],
+      "skills": ["Unity3D(C#)", "Angular", "Python", "PHP", "Mysql"],
+      "image": ""
+    },
+    {
+      "company": "Banco do Brasil",
+      "local": "Curitiba / Manaus",
+      "title": "",
+      "path": ["Hired", "Work", "Left"],
+      "begin": "May 2006",
+      "end": "February 2014",
+      "separator": "-",
+      "description": [
+        "Collaborated with <em>engineering</em> and <em>logistics</em> management in Manaus (AM) to develop a dashboard for cost control in building and renovation projects, optimizing project management processes.",
+        "Designed and implemented VBA <em>mainframe</em> scrapers for data collection and analysis, enabling streamlined reporting and issue identification."
+      ],
+      "skills": ["PHP", "MySql", "VBA"],
+      "image": ""
+    },
+    {
+      "company": "ABBRA",
+      "local": "Curitiba",
+      "title": "Developer",
+      "path": ["Hired", "Work", "Left"],
+      "begin": "April 2004",
+      "end": "May 2006",
+      "separator": "-",
+      "description": [
+        "Engineered a comprehensive <em>system</em> managing the entire legal process lifecycle, from lead generation to contract signing, enhancing operational efficiency and client management.",
+        "Developed batch research and verification processes utilizing court databases, enabling <em>efficient</em> analysis of over one million potential clients."
+      ],
+      "skills": ["PHP", "MySql", "Javascript"],
+      "image": ""
+    }
+  ],
+  "EducationData": [
+    {
+      "id": 1,
+      "university": "ACQUIA CERTIFICATION",
+      "skills": ["Drupal", "PHP", "Javascript"],
+      "date": "april 2024",
+      "major": "DRUPAL 10 Backend Specialist Certification",
+      "description": "",
+      "status": "certification",
+      "type": "certification",
+      "url": "https://certification.acquia.com/index.php/user/22426"
+    },
+    {
+      "id": 2,
+      "university": "ACQUIA CERTIFICATION",
+      "skills": ["Drupal", "PHP", "Javascript"],
+      "date": "march 2024",
+      "major": "DRUPAL 10 Frontend Specialist Certification",
+      "description": "",
+      "status": "certification",
+      "type": "certification",
+      "url": "https://certification.acquia.com/index.php/user/22426"
+    },
+    {
+      "id": 3,
+      "university": "ACQUIA CERTIFICATION",
+      "skills": ["Drupal", "PHP", "Javascript"],
+      "date": "march 2024",
+      "major": "DRUPAL 10 Developer Certification",
+      "description": "",
+      "status": "certification",
+      "type": "certification",
+      "url": "https://certification.acquia.com/index.php/user/22426"
+    },
+    {
+      "id": 4,
+      "university": "UNIVERSIDADE POSITIVO, Curitiba",
+      "skills": ["Unity3D", "3DSMax", "C#", "Javascript"],
+      "date": "2013 - 2015",
+      "major": "Digital Games",
+      "description": "",
+      "status": "(incomplete)",
+      "type": "education"
+    },
+    {
+      "id": 5,
+      "university": "UNIVERSIDADE FEDERAL DO AMAZONAS, Manaus",
+      "skills": ["Haskell", "Python"],
+      "date": "2011 - 2013",
+      "major": "Computer Science",
+      "description": "",
+      "status": "(incomplete)",
+      "type": "education"
+    },
+    {
+      "id": 6,
+      "university": "UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ, Curitiba",
+      "skills": ["C", "C++"],
+      "date": "2003 - 2006",
+      "major": "Electrical Engineering - Electronics and Telecommunication",
+      "description": "",
+      "status": "(incomplete)",
+      "type": "education"
+    }
+  ],
+  "SkillData": [
+    {
+      "trait_type": "",
+      "trait": "Advanced English (native Portuguese)",
+      "value": 91,
+      "current": false,
+      "active": true,
+      "profiles": ["corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "C#",
+      "value": 80,
+      "current": false,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "python",
+      "value": 60,
+      "current": false,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "angular",
+      "value": 80,
+      "current": false,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "react",
+      "value": 70,
+      "current": true,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "PHP",
+      "value": 80,
+      "current": true,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    },
+    {
+      "trait_type": "",
+      "trait": "drupal",
+      "value": 80,
+      "current": true,
+      "active": true,
+      "profiles": ["gaming", "corporate", "blockchain"]
+    }
+  ],
+  "InterestData": [
+    {
+      "trait_type": "",
+      "trait": "coffee",
+      "value": 90
+    },
+    {
+      "trait_type": "",
+      "trait": "craft beers",
+      "value": 80
+    },
+    {
+      "trait_type": "",
+      "trait": "soccer",
+      "value": -40
+    },
+    {
+      "trait_type": "",
+      "trait": "bitcoin",
+      "value": 100
+    },
+    {
+      "trait_type": "",
+      "trait": "bread making",
+      "value": 90
+    },
+    {
+      "trait_type": "",
+      "trait": "boxing",
+      "value": 65
+    }
+  ],
+  "ProjectData": [
+    {
+      "name": "A Gift From Hermes",
+      "description":
+        "Created this prototype to update my Unity3D and C# skills, with plans for future integration of web3 technology. The game showcases innovative gameplay mechanics, providing users with an engaging gaming experience.",
+      "tech": ["#unity3d", "#c#", "#game"],
+      "image": "hermes.png",
+      "link": "https://play.unity.com/mg/other/a-gift-from-hermes-v2-1-0",
+      "order": [3, 6, 0]
+    },
+    {
+      "name": "Epic Game",
+      "description":
+        "Created a turn-based NFT game prototype where users can create characters from templates and attack a boss. The game features strategic gameplay mechanics, providing players with an immersive and challenging gaming experience.",
+      "tech": ["#react", "#web3", "#hardhat", "#game"],
+      "image": "epic.png",
+      "link": "https://capitol-defenders.herokuapp.com/",
+      "github": "https://github.com/brunoscholz/buildspace-nft-game",
+      "order": [10, 5, 4]
+    },
+    {
+      "name": "Cryptozombies",
+      "description": "Working on a game prototype based on the cryptosombies.io tutorial, allowing users to mint their own NFT zombie cards with DNA based on chosen names. The game combines elements of blockchain technology with interactive gameplay mechanics.",
+      "tech": ["#react", "#web3", "#hardhat"],
+      "image": "zombie.png",
+      "link": "",
+      "github": "https://github.com/brunoscholz/cryptozombies",
+      "order": [9, 3, 1]
+    },
+    {
+      "name": "DNS/ENS",
+      "description": "Developed a prototype for a NFT name service on the Polygon network. The project aims to provide a decentralized solution for mapping human-readable names to blockchain addresses, enhancing accessibility and usability in the blockchain ecosystem.",
+      "tech": ["#react", "#web3", "#hardhat", "#polygon"],
+      "image": "ens.png",
+      "link": "https://ens-clone.vercel.app/",
+      "github": "https://github.com/brunoscholz/ens-clone",
+      "order": [8, 4, 10]
+    },
+    {
+      "name": "NFT Marketplace",
+      "description":
+        "Created a marketplace prototype where users can mint and sell their own NFTs, exploring applications in supply chains and identification. The platform provides a transparent and efficient way for users to tokenize assets and facilitate peer-to-peer transactions.",
+      "tech": ["#react", "#web3", "#ipfs", "#truffle"],
+      "image": "nft.png",
+      "link": "https://nftsmarket.herokuapp.com/home",
+      "github": "https://github.com/brunoscholz/nft-poc",
+      "order": [6, 2, 7]
+    },
+    {
+      "name": "Decentralized Exchange",
+      "description":
+        "Developed a decentralized app (dApp) prototype with smart contracts acting as a broker for Ethereum and a generic token. Utilized Truffle, Web3, and React technologies to create a secure and efficient platform for cryptocurrency trading and exchange.",
+      "tech": ["#react", "#web3", "#truffle"],
+      "image": "dex.png",
+      "link": "https://dapp-bootcamp1.herokuapp.com/",
+      "github": "https://github.com/brunoscholz/dapp-ethereum-dex",
+      "order": [5, 0, 8]
+    },
+    {
+      "name": "DAO",
+      "description":
+        "Weekend project to build a Decentralized Autonomous Organization (DAO) with a voting system and treasury. Leveraged skills Web3 and React to create a decentralized governance model that empowers community members to make collective decisions.",
+      "tech": ["#react", "#web3", "#thrid-web"],
+      "image": "dao.png",
+      "link": "https://condo-dao.vercel.app/",
+      "github": "https://github.com/brunoscholz/buildspace-dao",
+      "order": [7, 1, 9]
+    },
+    {
+      "name": "Portfolio",
+      "description":
+        "Designed and developed a portfolio website showcasing theme switching and different layouts to demonstrate proficiency in design and frontend development. Utilized React to create a visually appealing and responsive website that highlights various projects and skills.",
+      "tech": ["#react"],
+      "image": "resume.png",
+      "link": "",
+      "github": "https://github.com/brunoscholz/resume",
+      "order": [4, 7, 5]
+    },
+    {
+      "name": "Life Fit",
+      "description":
+        "Developed and managed a large-scale Drupal project for multiple gyms, implementing features such as gym attendance tracking, blog post management, and contract lead generation. Seamless user experience and efficient backend functionality.",
+      "tech": ["#drupal"],
+      "image": "fit.png",
+      "link": "https://www.fitnessfirst.de/",
+      "order": [0, 8, 6]
+    },
+    {
+      "name": "Doe Gols",
+      "description":
+        "Contributed to a project for a major sports channel in Brazil (Sportv), developing an interactive game using CreateJS. The game, aimed at engaging users, offers an immersive experience with dynamic visuals and engaging gameplay mechanics.",
+      "tech": ["#react", "#createjs"],
+      "image": "game.png",
+      "link": "https://doegols.globo.com/",
+      "order": [1, 9, 2]
+    },
+    {
+      "name": "Siemens",
+      "description":
+        "Enhanced mobile accessibility, implemented themes, and dynamically loaded content into pages for Siemens projects. Leveraged Angular and PHP technologies to ensure optimal performance and user experience across various devices and platforms.",
+      "tech": ["#canvas", "#php", "#angular"],
+      "image": "quiz.png",
+      "link": "https://play.google.com/store/apps/details?id=com.siemens.quizapp",
+      "order": [2, 10, 3]
+    }
+  ],
+  "SocialData": [{
+      "name": "email",
+      "value": "brunoscholz@yahoo.de",
+      "url": "mailto:brunoscholz@yahoo.de",
+      "icon": "AiFillMail"
+    },
+    {
+      "name": "x",
+      "value": "@brunoskolz",
+      "url": "https://x.com/brunoskolz",
+      "icon": "FaSquareXTwitter"
+    },
+    {
+      "name": "github",
+      "value": "/brunoscholz",
+      "url": "https://github.com/brunoscholz",
+      "icon": "AiFillGithub"
+    },
+    {
+      "name": "linkedin",
+      "value": "/in/brunoscholz",
+      "url": "https://linkedin.com/in/brunoscholz",
+      "icon": "AiFillLinkedin"
+    },
+    {
+      "name": "address",
+      "value": "Pelotas / RS - Brazil",
+      "url": "/",
+      "icon": "AiFillHome"
+    },
+    {
+      "name": "birthday",
+      "value": "March 2, 1983",
+      "url": "/",
+      "icon": "BiCake"
+    }
+  ]
+}
