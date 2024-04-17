@@ -7,9 +7,14 @@
 
 ## Hi there, I'm Bruno 👋
 
-- Fullstack Drupal Developer | Triple Certified Drupal Expert | Git Therapist at VML
-- 🌱 I’m currently learning web3.js and solidity
-- 🌱 and making games at nights and weekends in Unity3D
+**Fullstack Drupal Developer | Triple Certified Drupal Expert | Git Therapist at VML**
+
+I am a seasoned Fullstack Drupal Developer with over 15 years of experience navigating the ever-evolving landscapes of software engineering. My journey has been filled with challenging quests, where I've honed my skills in frontend enchantment, backend craftsmanship, and the art of problem-solving.
+
+As a Triple Certified Acquia Drupal Expert and self-proclaimed Git Therapist (I solve many Git conflicts 😉), I pride myself on my ability to tackle complex technical challenges with precision, creativity, and the occasional debugging session. Beyond the lines of code, I'm passionate about crafting seamless user experiences and delivering innovative solutions that exceed expectations.
+
+But it's not all serious business! Outside of the digital realm, you'll find me exploring the latest tech innovations, brainstorming ideas for a possible game project, cooking, embarking on epic treasure hunts with my son, or sharing a joke or two with fellow enthusiasts. Speaking of jokes, here's one: Why don't programmers like nature? It has too many bugs! 🌳🐞
+
 
 ## Skills
 - ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -31,8 +36,8 @@
 
 ## Highlight Projects
 
-<a href="https://github.com/brunoscholz/hermes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoscholz&repo=hermes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="A Gift from Hermes" />
+<a href="https://github.com/brunoscholz/nft-poc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoscholz&repo=nft-poc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NFT POC" />
 </a>
 
 <a href="https://github.com/brunoscholz/dapp-ethereum-dex">
