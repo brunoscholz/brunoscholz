@@ -7,13 +7,15 @@
 
 ## Hi there, I'm Bruno 👋
 
-- Frontend Engineer at Wunderman Thompson Technology
-- Working as Fullstack Drupal developer
+- Fullstack Drupal Developer | Triple Certified Drupal Expert | Git Therapist at VML
 - 🌱 I’m currently learning web3.js and solidity
 - 🌱 and making games at nights and weekends in Unity3D
 
 ## Skills
 - ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+- ![](https://img.shields.io/badge/CMS-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 - ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&logoColor=white&color=6aa6f8)
@@ -21,19 +23,16 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 - ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
-- ![](https://img.shields.io/badge/CMS-Drupal-informational?style=flat&logo=drupal&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
 ## Contact
 - [https://brunoscholz.vercel.app/](https://brunoscholz.vercel.app/)
-- [@brunoskolz](https://twitter.com/brunoskolz) on Twitter
+- [@brunoskolz](https://twitter.com/brunoskolz) on X
 - [https://linkedin.com/in/brunoscholz/](https://linkedin.com/in/brunoscholz/)
 
 ## Highlight Projects
 
-<a href="https://github.com/brunoscholz/nft-poc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoscholz&repo=nft-poc&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="NFT POC" />
+<a href="https://github.com/brunoscholz/hermes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunoscholz&repo=hermes&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="A Gift from Hermes" />
 </a>
 
 <a href="https://github.com/brunoscholz/dapp-ethereum-dex">
